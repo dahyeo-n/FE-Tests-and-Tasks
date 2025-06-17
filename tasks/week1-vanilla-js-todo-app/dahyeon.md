@@ -16,10 +16,12 @@ https://github.com/dahyeo-n/vanilla-js-todo
 
 ## 프로젝트 구조
 
+```bash
 vanilla-js-todo/
 ├── index.html # HTML 구조
 ├── style.css # 선택적 스타일링
 └── script.js # 메인 로직 (할 일 추가/삭제 등)
+```
 
 ## 테스트 방법
 
